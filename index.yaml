@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  gocicd:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-29T13:05:46.441661-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 0a6a444dd6ea7ee0f44ecc9ca0b7805f057c88ef4c2bd2ae137c54bbd61d9227
+    name: gocicd
+    urls:
+    - gocicd-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-29T13:05:46.428842-08:00"
